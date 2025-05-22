@@ -17,7 +17,7 @@ Whether you're learning, experimenting, or solving real-world problems, this rep
 ---
 
 ## 🧱 Repository Structure
-
+``` bash
 ├── python/
 │ ├── snippets/
 │ └── projects/
@@ -25,6 +25,7 @@ Whether you're learning, experimenting, or solving real-world problems, this rep
 ├── html-css/
 ├── sql/
 └── bash/
+```
 
 
 > Each folder contains code organized by language and complexity.
